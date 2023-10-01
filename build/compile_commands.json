@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yuanluochen/code/slam/build",
+  "command": "/usr/bin/c++ -I/usr/include/eigen3 -g -o CMakeFiles/slam.dir/eigen.cpp.o -c /home/yuanluochen/code/slam/eigen.cpp",
+  "file": "/home/yuanluochen/code/slam/eigen.cpp"
+}
+]
